@@ -1,0 +1,116 @@
+.App {
+  text-align: center;
+}
+
+.text-on-image {
+  position: absolute;
+  right: 30%;
+  left: 20%;
+  top: 20%;
+    
+}
+
+.title {
+  padding-top: 12px;
+  text-align: center;
+  font-size: large;
+  font-weight: 700;
+}
+
+.head-text {
+  position: relative;
+  padding-left: 10px;
+}
+
+/* form osis */
+
+.kotak{
+  margin-left: 870px;
+  height: 100px;
+  width: 300px;
+  border-radius: 20px;
+  background-color: rgb(223, 223, 61);
+}
+
+.form-daftar{
+  color: black;
+  text-transform: capitalize;
+  font-size: 25px;
+  font-weight: 690;
+  text-align: center;
+  padding-top: 20px;
+
+  
+}
+.text-on-image {
+  position: absolute;
+  right: 30%;
+  left: 20%;
+  top: 20%;
+    
+}
+
+.form-body {
+  text-align: left;
+  padding: 20px 10px;
+}
+
+.form-input{
+  width: 20%;
+  margin-bottom: 15px;
+  margin-left: 920px;
+}
+
+.jarak{
+  margin-left: 40px;
+  text-align: right;
+}
+
+/* css button */
+.btn{
+  padding: 50px;
+  width: 100px;
+  height: 100px;
+  
+}
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.App-header {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #000000;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.image{
+  width: 30px;
+  height: 30px;
+}
+
